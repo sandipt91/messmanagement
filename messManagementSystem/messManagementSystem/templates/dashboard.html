@@ -1,0 +1,40 @@
+﻿<div class="row-fluid">
+    <fieldset>
+        <legend></legend>
+
+        <div>Is this for an Event?</div>
+
+        <br />
+        <form novalidate class="simple-form">
+            <span style="vertical-align: bottom;">
+               <input type="button"  value="Yes, it is" class="btn-primo" ng-click="submitEvent(event)" />
+                <br />
+                <br />
+                Choose Event: 
+                <br />
+                <select id="events" ng-model="event" ng-options="e.Text for e in events"></select><br>        
+            </span>
+        </form>
+        <br />
+
+        <input type="button" value="No, not really" onclick="javascript: DontGoToEvent()" class="btn-primo" />
+        <hr />
+
+        <h5>Also shown in the menu</h5>
+        <input type="button" value="My Rides" class="btn" ng-click="MyRides();"/>
+        <input type="button" value="Hide App" onclick="javascript: showFS(true)" class="btn" />
+        <div class="text-info">
+            My Rides shows your Rides 
+            <br />
+            Hide App gets the app out of the way so that you can see the background pictures
+        </div>
+        <hr />
+
+        <div class="text-info">
+            If you are going to an event, and do not find it in the list here,
+            <br />
+            you could consider adding it for other users
+        </div>
+    </fieldset>
+    
+</div>

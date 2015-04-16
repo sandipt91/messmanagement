@@ -1,0 +1,63 @@
+﻿@model IEnumerable<messManagementSystem.Models.DailyMess>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Daily Mess</h2>
+
+<div class="pull-right">
+
+    <input type="button" class="btn btn-primary btn-sm" value=" Add DailyMess" onclick="createDailymess()" /> 
+</div> 
+<br />
+<br />
+<table class="table">
+    <tr style="background:#222222;">
+        <th>
+           SrNo
+        </th>
+        <th>
+            CustName
+        </th>
+        <th>
+            LunchTime
+        </th>
+        <th>
+            Status
+        </th> 
+        <th> Actions</th>
+    </tr>
+    @{int index = 0;}
+@foreach (var item in Model) {
+    index = index + 1;
+    <tr>
+        <td><text>@index</text></td> 
+        <td>
+            @Html.DisplayFor(modelItem => item.custMessName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.lunchDateTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.status)
+        </td> 
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.dailyMessID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.dailyMessID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.dailyMessID })
+        </td>
+    </tr>
+}
+
+</table>
+
+<script>
+
+    function createDailymess()
+    {
+        window.location.href = '@Url.Action("Create","DailyMess", new { id=@ViewBag.custId })'; 
+         
+    }
+
+</script>

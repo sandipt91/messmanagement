@@ -1,0 +1,119 @@
+﻿@model messManagementSystem.Models.Customer
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 class="HeaderName" >Create Customer</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Customer</legend>
+
+        <table>
+
+            <tr>
+                <td class="section">
+                    <div class="editor-label">
+                        FirstName
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.custFirstName)
+                        @Html.ValidationMessageFor(model => model.custFirstName)
+                    </div>
+
+                    <div class="editor-label">
+                        LastName
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.custLastName)
+                        @Html.ValidationMessageFor(model => model.custLastName)
+                    </div>
+
+                    <div class="editor-label">
+                        ContactNo
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.custContactNo)
+                        @Html.ValidationMessageFor(model => model.custContactNo)
+                    </div>
+
+
+                </td>
+                <td class="section">
+
+                    <div class="editor-label">
+                        Address
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.custAddress)
+                        @Html.ValidationMessageFor(model => model.custAddress)
+                    </div>
+
+                    <div class="editor-label">
+                        Email
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.custEmail)
+                        @Html.ValidationMessageFor(model => model.custEmail)
+                    </div>
+
+                   @* <div class="editor-label">
+                        JoinDate
+                    </div>*@
+                    @* <div class="editor-field">*@
+                         
+                        @* @Html.EditorFor(model => model.joinDate) *@
+                    @*<div  class="input-append date" id="datepicker"  data-date-format="dd-mm-yyyy hh:mm:ss">*@  @*class="editor-field"*@
+                       @* @Html.EditorFor(model => model.joinDate, new { @value = "2012-05-15 21:05", @readonly = true })
+                        <span class="add-on"><i class="icon-calendar"></i></span>
+                        @Html.ValidationMessageFor(model => model.joinDate)*@
+                   @* </div>*@
+
+                    @*  <div class="editor-label">
+                        ReleaseDate
+                    </div>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.releasedate)
+                        @Html.ValidationMessageFor(model => model.releasedate)
+                    </div>*@
+
+                </td>
+
+            </tr>
+            <tr>
+            </tr>
+        </table>
+
+        <p>
+           &nbsp &nbsp &nbsp &nbsp <input type="submit" class="btn btn-primary btn-sm" value="Submit" />   &nbsp &nbsp &nbsp &nbsp <input type="button" class="btn btn-primary btn-sm" value="Go Back" onclick="goBack()" />
+        </p>
+    </fieldset>
+}
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script>
+
+   
+    function goBack()
+    { 
+        window.location.href = '@Url.Action("Index","Customer")';
+    }
+     
+        //Set The dateTime Calender for datepicker
+        $('#datepicker').datepicker({ 
+            todayHighlight: true, 
+        });
+     
+</script> 
+ 

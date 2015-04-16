@@ -1,0 +1,60 @@
+﻿@model messManagementSystem.Models.Owner
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 class="HeaderName">Owner Profile </h2>
+
+<fieldset>
+    <legend>Owner</legend>
+
+    <table style="border:#333 solid 2px; width:100%;height:100%">
+        
+        <tr>
+            <td class="section">
+                <div class="display-label">
+                    FirstName : @ViewBag.details
+                </div>
+
+                <br />
+                <div class="display-label">
+                    LastName : @ViewBag.LastName
+                </div>
+
+                <br />
+                <div class="display-label">
+                    Address : @ViewBag.Address
+                </div>
+
+                <br />
+                <div class="display-label">
+                    ContactNo : @ViewBag.Contact
+                </div>
+
+                <br />
+                <div class="display-label">
+                    Email : @ViewBag.Email
+                </div>
+
+
+            </td>
+            <td class="section">
+                <br />
+                <div class="profile-img">
+                    
+                <img src="~/Images/Profile.jpg" />
+                    <br />
+                    </div>
+
+            </td>
+        </tr>
+    </table>
+
+</fieldset>
+
+
+@*<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ownerId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>*@

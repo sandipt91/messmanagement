@@ -1,0 +1,73 @@
+﻿@model IEnumerable<messManagementSystem.Models.Owner>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="HeaderName">All Owners</h2> 
+     <div class="pull-right">
+
+                <input type="button" class="btn btn-primary btn-sm" value="Create Owner" onclick="CreateOwner()" /> 
+    </div> 
+  <br />
+            <br /> 
+<table class="table">
+    <tr>
+        <th>SrNo</th>
+        <th>
+            FirstName
+        </th>
+        <th>
+           LastName
+        </th>
+        <th>
+          Address
+        </th>
+        <th>
+           ContactNo
+        </th>
+        <th>
+            Email
+        </th>
+       
+        <th></th>
+    </tr>
+    @{ int index = 0;}
+@foreach (var item in Model) {
+    index = index + 1;
+    <tr>
+        <td>
+           <text>  @index </text>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ownerFirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ownerLastNeame)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ownerAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ownerContactNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ownerEmail)
+        </td> 
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ownerId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ownerId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ownerId })
+        </td>
+    </tr>
+}
+
+</table>
+
+<script>
+
+
+    function CreateOwner() {
+        window.location.href = '@Url.Action("Create", "Owner")';
+      }
+</script>

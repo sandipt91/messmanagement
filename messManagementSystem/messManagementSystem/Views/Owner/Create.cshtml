@@ -1,0 +1,75 @@
+﻿@model messManagementSystem.Models.Owner
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 class="HeaderName" >Create Owner</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Owner</legend>
+
+        <div class="editor-label">
+          FirstName
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ownerFirstName)
+            @Html.ValidationMessageFor(model => model.ownerFirstName)
+        </div>
+
+        <div class="editor-label">
+           LastName
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ownerLastNeame)
+            @Html.ValidationMessageFor(model => model.ownerLastNeame)
+        </div>
+
+        <div class="editor-label">
+          Address
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ownerAddress)
+            @Html.ValidationMessageFor(model => model.ownerAddress)
+        </div>
+
+        <div class="editor-label">
+          ContactNo
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ownerContactNo)
+            @Html.ValidationMessageFor(model => model.ownerContactNo)
+        </div>
+
+        <div class="editor-label">
+           Email
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ownerEmail)
+            @Html.ValidationMessageFor(model => model.ownerEmail)
+        </div> 
+        <p>
+            <input type="submit" value="Create" class="btn btn-primary btn-sm" />  &nbsp &nbsp <input type="button" value="Back" class="btn btn-primary btn-sm" onclick="goback()" 
+        </p>
+    </fieldset>
+}
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script>
+
+    function goback()
+    {
+        window.location.href = '@Url.Action("Index", "Owner")';
+    }
+
+</script>

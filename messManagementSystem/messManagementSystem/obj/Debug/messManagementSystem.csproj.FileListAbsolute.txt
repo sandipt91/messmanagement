@@ -1,0 +1,302 @@
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\messManagementSystem.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\messManagementSystem.pdb
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\Antlr3.Runtime.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\EntityFramework.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Http.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Optimization.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Razor.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\WebGrease.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\EntityFramework.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Http.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.Razor.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.csprojResolveAssemblyReference.cache
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.dll
+f:\users\innvy1\documents\visual studio 2012\Projects\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.pdb
+E:\xxx\messManagementSystem\messManagementSystem\bin\messManagementSystem.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\messManagementSystem.pdb
+E:\xxx\messManagementSystem\messManagementSystem\bin\Antlr3.Runtime.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\EntityFramework.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Http.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Optimization.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Razor.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\WebGrease.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.dll
+E:\xxx\messManagementSystem\messManagementSystem\bin\EntityFramework.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Http.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.Razor.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.xml
+E:\xxx\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\xxx\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.csprojResolveAssemblyReference.cache
+E:\xxx\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.dll
+E:\xxx\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.pdb
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\messManagementSystem.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\messManagementSystem.pdb
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\Antlr3.Runtime.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\EntityFramework.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Http.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Optimization.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Razor.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\WebGrease.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\EntityFramework.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Http.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.Razor.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.csprojResolveAssemblyReference.cache
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.dll
+F:\Users\innvy1\Desktop\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.pdb
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\messManagementSystem.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\messManagementSystem.pdb
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\Antlr3.Runtime.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\EntityFramework.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Http.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Optimization.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Razor.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\WebGrease.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\EntityFramework.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Http.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.Razor.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\xxx\work\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.csprojResolveAssemblyReference.cache
+E:\xxx\work\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.dll
+E:\xxx\work\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.pdb
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\messManagementSystem.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\messManagementSystem.pdb
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\Antlr3.Runtime.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\EntityFramework.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Http.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Optimization.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Razor.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\WebGrease.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\EntityFramework.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Http.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.Razor.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\SandipThite\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.csprojResolveAssemblyReference.cache
+E:\SandipThite\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.pdb
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\StructureMap.dll
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\StructureMap.pdb
+E:\SandipThite\messManagementSystem\messManagementSystem\bin\StructureMap.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\messManagementSystem.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\messManagementSystem.pdb
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\Antlr3.Runtime.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\EntityFramework.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\StructureMap.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Http.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Optimization.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Razor.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\WebGrease.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\StructureMap.pdb
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\StructureMap.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\EntityFramework.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\Newtonsoft.Json.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Net.Http.Formatting.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Helpers.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Http.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Http.WebHost.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Mvc.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.Razor.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\WebMatrix.Data.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\WebMatrix.WebData.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.AspNet.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.Core.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OAuth.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\SandipWork\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.pdb
+E:\SandipWork\messManagementSystem\messManagementSystem\obj\Debug\messManagementSystem.csprojResolveAssemblyReference.cache
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\itextsharp.dll
+E:\SandipWork\messManagementSystem\messManagementSystem\bin\messManagementSystem.dll.config

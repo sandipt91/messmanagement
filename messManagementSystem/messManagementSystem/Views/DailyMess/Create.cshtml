@@ -1,0 +1,78 @@
+﻿@model messManagementSystem.Models.DailyMess
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Food Searve by Customer on Daily Basis</legend>
+
+        <div class="editor-label">
+          CustId
+        </div>
+         <div class="editor-field">
+            @Html.DropDownListFor(model => model.custId, new SelectList(ViewBag.CustomerCollection, "custId","custId"))
+            <br />
+            @Html.ValidationMessageFor(model => model.custId)
+        </div>
+
+        <div class="editor-label">
+           CustomerName
+        </div>
+         <div class="editor-field">
+            @Html.DropDownListFor(model => model.custMessName, new SelectList(ViewBag.CustomerCollection, "custFirstName", "custFirstName"))
+            <br />
+            @Html.ValidationMessageFor(model => model.custMessName)
+        </div>
+       @* <div class="editor-label">
+            @Html.LabelFor(model => model.lunchDateTime)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.lunchDateTime)
+            @Html.ValidationMessageFor(model => model.lunchDateTime)
+        </div>*@
+
+       @* <div class="editor-label">
+            @Html.LabelFor(model => model.status)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.status)
+            @Html.ValidationMessageFor(model => model.status)
+        </div>*@
+
+     @*   <div class="editor-label">
+            @Html.LabelFor(model => model.lastUpdateDate)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.lastUpdateDate)
+            @Html.ValidationMessageFor(model => model.lastUpdateDate)
+        </div>*@
+
+        <br />
+        <p>
+            <input type="submit" class="btn btn-primary btn-sm" value="Create" />  &nbsp &nbsp &nbsp &nbsp <input type="button" class="btn btn-primary btn-sm" value="Go Back" onclick="goBack()" />
+        </p>
+    </fieldset>
+}
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script>  
+
+    function goBack()
+    { 
+        window.location.href = '@Url.Action("Index","DailyMess", new { custId=@ViewBag.custId })';
+    }
+</script>

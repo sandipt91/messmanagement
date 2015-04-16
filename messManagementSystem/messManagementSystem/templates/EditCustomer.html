@@ -1,0 +1,85 @@
+ <html data-ng-app="module" xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Scripts/app.js"></script>
+    <link rel="stylesheet" type="text/css" href="Content/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="Content/site.css" />
+    <script src="../Scripts/angular.min.js"></script>
+    <title>POC</title>
+</head>
+
+ <body data-ng-app="module">
+     <div id="mainContainer" class="container wrapper" data-ng-controller="EditcustomerController">
+
+         <form name="EditEventForm" data-ng-submit="EditSaveCustomer($event)">
+
+             <fieldset>
+
+                 <legend>Edit Customer</legend>
+
+                 <div hidden>
+                     <input hidden type="text" data-ng-model="event.custId" id="Id" name="Id" />
+                     <input hidden type="text" data-ng-model="event.joinDate" id="joinDate" name="joinDate" />
+                     <input hidden type="text" data-ng-model="event.releasedate" id="releasedate" name="releasedate" />
+                 </div>
+
+                 <div class="editor-label">
+                     First Name :
+                 </div>
+
+                 <div class="editor-field" data-ng-controller="EditcustomerController">
+                     <input data-ng-model="event.custFirstName" type="text" id="custFirstName" />
+                 </div>
+
+
+                 <div class="editor-label">
+                     Last Name :
+                 </div>
+
+                 <div class="editor-field" data-ng-controller="EditcustomerController">
+                     <input data-ng-model="event.custLastName" type="text" id="custLastName" />
+                 </div>
+
+                 <div class="editor-label">
+                     Contact No :
+                 </div>
+
+                 <div class="editor-field" data-ng-controller="EditcustomerController">
+                     <input data-ng-model="event.custContactNo" id="custContactNo"  type="text" />
+                 </div>
+
+                 <div class="editor-label">
+                     Address :
+                 </div>
+
+                 <div class="editor-field" data-ng-controller="EditcustomerController">
+                     <input data-ng-model="event.custAddress" id="custAddress" type="text" />
+                 </div>
+
+
+                 <div class="editor-label">
+                     Email :
+                 </div>
+
+                 <div class="editor-field" data-ng-controller="EditcustomerController">
+                     <input data-ng-model="event.custEmail" id="custEmail" type="text" />
+                 </div>
+
+             </fieldset>
+
+             <br />
+             <div class="formColumn">
+                 <input type="submit" value="Save" class="btn" style="background: green" />
+
+                 <a href="#/" class="btn" style="background: green">Cancel</a>
+             </div>
+         </form>
+     </div>
+ </body>
+
+
+</html>

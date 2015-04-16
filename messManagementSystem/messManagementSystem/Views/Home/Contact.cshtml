@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+
+
+ 
+   <h2 style="color: #222222" > Contact Us </h2>
+     
+<fieldset> 
+
+    @using (Html.BeginForm())
+    {
+        <div>
+
+            <br />
+
+            Write to us, tell us what you think.
+        <br />
+            Please let us know if are you looking for any features in particular,
+        <br />
+            or simply connect with us.
+        <br />
+            <br />
+            <input type="email" id="userEmail" name="userEmail" placeholder="Your email address" />
+            <br />
+            <br />
+            <textarea rows="10" cols="40" id="msg" name="msg" placeholder="Feedback message here.." style="width: 95%; margin-right: 10px;"></textarea>
+            <br />
+            @*<input type="submit"class="btn btn-primary btn-sm" value="Comment" onclick="saveComment()" />*@
+            <br />
+            <br />
+            We strive to make this website more useful for you.
+        <br />
+
+            This website is not made for money, but by our interest in improving our environment.
+        <br />
+            <br />
+            <input type="submit" value="Send" class="btn btn-primary btn-sm">
+            <br />
+        </div>
+    }
+</fieldset>
+
+<script>
+
+    function saveComment() {
+        window.location.href = '@Url.Action("SaveComment", "Home")';
+    }
+</script>

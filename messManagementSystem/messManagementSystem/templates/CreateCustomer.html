@@ -1,0 +1,86 @@
+ <html data-ng-app="module" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Scripts/app.js"></script>
+    <link rel="stylesheet" type="text/css" href="Content/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="Content/site.css" />
+
+    <title>POC</title>
+</head>
+
+<body>
+    <div id="mainContainer" class="container wrapper">
+        
+              <form name="createEventForm" data-ng-submit="SaveCustomer()">
+
+    <fieldset>
+        <legend>Create Customer</legend>
+
+        <div hidden>
+            <input hidden type="text" data-ng-model="event.custId" id="Id" name="Id" /> 
+        </div>
+
+        <div class="formColumn float-left" style="width: 40%;">
+
+            <div class="editor-label">
+              First Name :
+            </div>
+
+            <div class="editor-field">
+               <!-- <span class="input-prepend black">-->
+                    
+                    <input data-ng-model="event.custFirstName" id="custFirstName" name="custFirstName" placeholder="abc" type="text" required />
+               <!-- </span>-->
+                <span class="error" data-ng-show="createEventForm.custLastName.$error.required">*</span> 
+            </div>
+            <br />
+
+            <div class="editor-label">
+             Last Name :
+            </div>
+            <div>
+                <input data-ng-model="event.custLastName" id="custLastName" name="custLastName" placeholder="xyz" type="text" required />
+                <span class="error" data-ng-show="createEventForm.custLastName.$error.required">*</span>
+            </div> 
+            <div class="editor-label">
+              Contact No :
+            </div>
+            <div class="editor-field">
+                <input data-ng-model="event.custContactNo" id="custContactNo" name="custContactNo" placeholder="999 999 9999" type="text" required />
+                <span class="error" data-ng-show="createEventForm.custContactNo.$error.required">*</span>
+            </div>
+            <br />
+            <div class="editor-label">
+                Address :
+            </div>
+
+            <div class="editor-field">
+                <input data-ng-model="event.custAddress" id="custAddress" name="custAddress" placeholder="Dubai" type="text" />
+            </div>
+            <br />
+            <div class="editor-label">
+                Email :
+            </div>
+            <div>
+                <input data-ng-model="event.custEmail" id="custEmail" name="custEmail" placeholder="abc@def.com" type="text" />
+
+            </div>
+        </div>
+
+       
+    </fieldset> 
+    <br />
+    <div class="formColumn">
+        <input type="submit" value="Save" class="btn" />
+       <!-- <input type="submit" value="Save" class="btn" />-->
+        <a href="#/" class="btn">Cancel</a>
+    </div> 
+</form> 
+    </div>
+</body>
+
+
+</html>

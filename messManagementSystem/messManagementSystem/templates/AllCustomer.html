@@ -1,0 +1,47 @@
+﻿<html data-ng-app="module" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Scripts/app.js"></script>
+    <link rel="stylesheet" type="text/css" href="Content/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="Content/site.css" />
+
+    <title>POC</title>
+</head>
+
+<body>
+    <div id="mainContainer" class="container wrapper">
+        <div>
+            <div data-role="listview">
+                <div class="larger bolder heading">
+                    ALL Customer     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<input style="background:green" type="button" data-toggle="modle" data-ng-click="CreateCustomer();" value="Add Customer" />
+                </div>
+                <br />
+                <div data-ng-repeat="cust in customers">
+                    <div>
+                        &nbsp &nbsp &nbsp Customer Name : {{cust.custFirstName +'  '+ cust.custLastName }}
+                        <br />
+                        &nbsp &nbsp &nbsp  Customer Address : {{cust.custAddress}}
+
+                    </div>
+                    &nbsp &nbsp &nbsp <a data-id="{{cust.custId}}" data-toggle="modal" data-ng-click="EditViewCustomer(cust);">Edit</a> <span>&nbsp;|&nbsp;</span>
+                    <a data-id="{{cust.custId}}" data-toggle="modal" data-ng-click="DeleteCustomer(cust);">Delete</a>
+                    <br />
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+
+</html>
+
+
+
+ 
+
+
+ 

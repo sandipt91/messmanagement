@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Dashboard Angular";
+    ViewBag.InitModule = "HomeDashboard";
+     
+}
+
+@section Scripts{
+
+
+
+    <script src="~/JS/HomeDashboardController.js"></script> 
+}
+
+<div data-ng-view>
+
+</div>
+
+<div class="modal fade black" role="dialog" id="myModal" tabindex="-1" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" data-dismiss="modal" aria-hidden="true" class="btn-danger float-right">x</button>
+                <h3 id="del-confirm-label">Show on map</h3>
+            </div>
+            <div class="modal-body">
+                <div id="map_div"></div>
+            </div>
+        </div>
+    </div>
+</div>

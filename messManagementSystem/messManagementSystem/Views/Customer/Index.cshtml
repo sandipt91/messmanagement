@@ -1,0 +1,111 @@
+﻿@model IEnumerable<messManagementSystem.Models.Customer>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="HeaderName"> All Customer </h2>
+
+ 
+    <div class="pull-right">
+
+    <input type="button" class="btn btn-primary btn-sm" value="Add Customer" onclick="createCustomer()" /> 
+</div> 
+ <br />
+ <br />
+<table  class="table">
+    <tr style="background:#222222;" >
+        <th>SrNo</th>
+        <th>FirstName
+        @*</th>
+        <th>LastName
+        </th>*@
+        <th>ContactNo
+        </th>
+        <th>Address
+        </th>
+        @*<th>Email
+        </th>*@
+        <th>JoinDate
+        </th>
+        <th>RleaseDate
+        </th>
+
+        <th>Action</th>
+    </tr>
+
+    @{ int index = 0;}
+    @foreach (var item in Model)
+    {
+        index = index + 1;
+        <tr>
+            <td>
+
+                <text>@index</text>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.custFirstName)
+            </td>
+           @* <td>
+                @Html.DisplayFor(modelItem => item.custLastName)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.custContactNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.custAddress)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.custEmail)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.joinDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.releasedate)
+            </td>
+
+            <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.custId }) |
+            @Html.ActionLink("View MessDetais", "Index", "DailyMess", new { custId = item.custId }, null)  |
+          @*  @Html.ActionLink("Delete", "Delete", new { id = item.custId })*@
+
+                 <a href="#" onclick="DeleteCustomer(@item.custId);" >Delete</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<script> 
+
+    function createCustomer()
+    { 
+        window.location.href = '@Url.Action("Create", "Customer")';
+    }
+
+    function DeleteCustomer(custId) {
+
+        debugger;
+        var result = confirm("Caution: this will delete the customer \nAre you sure to delete this Subject?");
+
+        if (result) {
+            DeleteCustomerFinal(custId);
+        }
+    }
+
+    function DeleteCustomerFinal(custId) {
+        debugger;
+        $.get("delete", { id: custId },
+            function (data) {
+                debugger;
+                if (data == true) {
+                    window.location.reload();
+                }
+                else {
+                    alert("Customer deletion  failed");
+                }
+            });
+    }
+
+</script>
